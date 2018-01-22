@@ -1,3 +1,15 @@
 {
-    "plugins": [ "theme-opendocs" ]
+    "variables": {
+             "shlName": "2018"
+       } 
+
+       //添加插件
+       "plugins": [
+        "theme-blue@1.0.13"
+    ],
+    "pluginsConfig": {
+        "theme-blue": {
+            "url": "https://github.com/wanghaiyangithub/gitbook-plugin-theme-blue"
+        }
+    }
 }
