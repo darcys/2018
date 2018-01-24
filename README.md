@@ -1,4 +1,4 @@
-# 2018 OKR
+# 2018 
 ## javascript
 - learn vue with example
 
