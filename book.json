@@ -3,11 +3,11 @@
              "shlName": "2018"
        },
     "plugins": [
-        "theme-blue@1.0.13"
+        "comscore"
     ],
     "pluginsConfig": {
-        "theme-blue": {
-            "url": "https://github.com/wanghaiyangithub/gitbook-plugin-theme-blue"
+        "comscore": {
+            "url": "https://github.com/ntldrake/gitbook-plugin-cs"
         }
     }
 }
