@@ -1,13 +1,6 @@
 {
-    "variables": {
-             "shlName": "2018"
-       },
+    
     "plugins": [
-        "comscore"
-    ],
-    "pluginsConfig": {
-        "comscore": {
-            "url": "https://github.com/ntldrake/gitbook-plugin-cs"
-        }
-    }
+        "theme-hybrid"
+    ]
 }
