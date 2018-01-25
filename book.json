@@ -1,6 +1,7 @@
 {
     
     "plugins": [
-        "theme-hybrid"
+        "theme-hybrid",
+        "code-captions" 
     ]
 }
