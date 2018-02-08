@@ -1,7 +1,7 @@
 ### lua学习资料
 
-[http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/](http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/)  
-[http://tylerneylon.com/a/learn-lua/](http://tylerneylon.com/a/learn-lua/)
+[Programming in Lua](http://nova-fusion.com/2012/08/27/lua-for-programmers-part-1/)
+[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
 ### coroutine
 
