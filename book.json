@@ -2,6 +2,7 @@
     
     "plugins": [
         "theme-hybrid",
-        "code-captions" 
+        "code-captions",
+        "nomnoml"
     ]
 }
