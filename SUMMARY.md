@@ -6,5 +6,5 @@
 * [vue学习1](second-question.md)
 * [lua](lua.md)
 * [nomnoml](nomnoml.md)
-* [一句话的日记](yi-ju-hua-de-ri-ji.md)
+* [简单日记](yi-ju-hua-de-ri-ji.md)
 
